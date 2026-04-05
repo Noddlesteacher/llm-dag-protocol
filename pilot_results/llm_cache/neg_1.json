@@ -1,0 +1,10 @@
+{
+  "run_id": 1,
+  "negative_control": true,
+  "api": "anthropic",
+  "stages": {
+    "stage1": "I cannot provide meaningful causal classifications for these variables because:\n\n1. **No substantive information**: The variables have arbitrary names (var_hazug, var_ewuvl, etc.) with no indication of what they actually measure\n2. **No domain context**: Without knowing the research domain, treatment type, or outcome nature, causal relationships cannot be determined\n3. **No data relationships**: There's no information about correlations, temporal ordering, or statistical associations between variables\n\nTo properly classify variables as confounders, mediators, colliders, instruments, precision variables, or irrelevant factors, I would need:\n\n- **Variable definitions**: What does each variable actually measure?\n- **Domain knowledge**: What is the substantive research question?\n- **Temporal information**: Which variables precede the treatment and outcome?\n- **Theoretical framework**: What are the plausible causal pathways?\n- **Data exploration**: What are the observed relationships between variables?\n\n**Recommendation**: Please provide either:\n1. Descriptive names/definitions for the variables, OR\n2. The research domain and context, OR  \n3. A theoretical model or DAG showing hypothesized relationships\n\nWithout this information, any classification would be arbitrary and potentially misleading for your causal inference analysis."
+  },
+  "adjustment_set": [],
+  "edges": []
+}
